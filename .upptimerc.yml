@@ -13,6 +13,8 @@ sites:
     url: https://syncthing.joshuastock.net
   - name: Grafana
     url: https://dashboard.joshuastock.net
+  - name: Portainer
+    url: https://portainer.joshuastock.net
   - name: Google
     url: https://google.com
   - name: DuckDuckGo
