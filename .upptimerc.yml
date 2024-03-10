@@ -11,6 +11,8 @@ sites:
     url: https://filebrowser.joshuastock.net
   - name: Syncthing
     url: https://syncthing.joshuastock.net
+  - name: Grafana
+    url: https://dashboard.joshuastock.net
   - name: Google
     url: https://google.com
   - name: DuckDuckGo
