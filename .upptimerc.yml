@@ -9,6 +9,8 @@ sites:
     url: https://joshuastock.net
   - name: Google
     url: https://google.com
+  - name: DuckDuckGo
+    url: https://duckduckgo.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
