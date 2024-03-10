@@ -9,6 +9,8 @@ sites:
     url: https://joshuastock.net
   - name: Filebrowser
     url: https://filebrowser.joshuastock.net
+  - name: Syncthing
+    url: https://syncthing.joshuastock.net
   - name: Google
     url: https://google.com
   - name: DuckDuckGo
