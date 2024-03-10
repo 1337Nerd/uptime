@@ -11,7 +11,7 @@ sites:
     url: https://filebrowser.joshuastock.net
   - name: Grafana
     check: "tcp-ping"
-    url: https://dashboard.joshuastock.net
+    url: dashboard.joshuastock.net
     port: 443
   - name: Homarr
     url: https://homarr.joshuastock.net
