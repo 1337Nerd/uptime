@@ -1,20 +1,40 @@
 [
   {
     "name": "Jellyfin",
-    "url": "https://jellyfin.joshuastock.net/",
+    "url": "https://jellyfin.joshuastock.net",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.joshuastock.net.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 121,
+    "timeDay": 121,
+    "timeWeek": 121,
+    "timeMonth": 121,
+    "timeYear": 121,
+    "dailyMinutesDown": {
+      "2024-03-10": 3
+    }
+  },
+  {
+    "name": "Portfolio",
+    "url": "https://joshuastock.net",
+    "icon": "https://icons.duckduckgo.com/ip3/joshuastock.net.ico",
+    "slug": "portfolio",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {
       "2024-03-10": 0
     }
