@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 121,
-    "timeDay": 121,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "time": 98,
+    "timeDay": 98,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {
-      "2024-03-10": 3
+      "2024-03-10": 7
     }
   },
   {
@@ -25,18 +25,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/joshuastock.net.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "3.02%",
-    "uptimeDay": "3.02%",
-    "uptimeWeek": "3.02%",
-    "uptimeMonth": "3.02%",
-    "uptimeYear": "3.02%",
-    "time": 67,
-    "timeDay": 67,
-    "timeWeek": 67,
-    "timeMonth": 67,
-    "timeYear": 67,
+    "uptime": "0.29%",
+    "uptimeDay": "0.29%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "0.29%",
+    "uptimeYear": "0.29%",
+    "time": 78,
+    "timeDay": 78,
+    "timeWeek": 78,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-03-10": 0
+      "2024-03-10": 4
     }
+  },
+  {
+    "name": "Google",
+    "url": "https://google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
+    "dailyMinutesDown": {}
   }
 ]
