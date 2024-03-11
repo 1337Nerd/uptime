@@ -33,6 +33,8 @@ sites:
     url: https://prowlarr.joshuastock.net
   - name: Radarr
     url: https://radarr.joshuastock.net
+  - name: Slskd
+    url: https://slskd.joshuastock.net
   - name: Sonarr
     url: https://sonarr.joshuastock.net
   - name: Syncthing
