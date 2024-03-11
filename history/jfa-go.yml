@@ -1,7 +1,7 @@
 url: https://jfa-go.joshuastock.net
-status: up
-code: 200
-responseTime: 318
-lastUpdated: 2024-03-11T00:41:47.319Z
+status: down
+code: 502
+responseTime: 223
+lastUpdated: 2024-03-11T23:10:17.695Z
 startTime: 2024-03-10T20:21:16.525Z
 generator: Upptime <https://github.com/upptime/upptime>
