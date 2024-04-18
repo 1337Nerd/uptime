@@ -1,7 +1,7 @@
 url: https://homarr.joshuastock.net
-status: up
-code: 200
-responseTime: 1883
-lastUpdated: 2024-04-18T17:13:37.142Z
+status: down
+code: 502
+responseTime: 241
+lastUpdated: 2024-04-18T17:31:52.522Z
 startTime: 2024-03-10T20:21:12.749Z
 generator: Upptime <https://github.com/upptime/upptime>
