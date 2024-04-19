@@ -1,7 +1,7 @@
 url: https://dash.joshuastock.net
-status: up
-code: 200
-responseTime: 235
-lastUpdated: 2024-04-19T04:59:31.130Z
+status: down
+code: 502
+responseTime: 264
+lastUpdated: 2024-04-19T15:32:03.999Z
 startTime: 2024-03-10T20:21:09.982Z
 generator: Upptime <https://github.com/upptime/upptime>
