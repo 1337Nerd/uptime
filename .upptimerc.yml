@@ -58,6 +58,7 @@ status-website:
   logoUrl: https://gitlab.com/1337_Nerd/portfolio/-/raw/main/src/lib/assets/icon.svg
   theme: light
   name: Status
+  robotsText: "User-agent: *\n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
