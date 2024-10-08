@@ -4,19 +4,19 @@
     "url": "https://authentik.joshuastock.net",
     "icon": "https://icons.duckduckgo.com/ip3/authentik.joshuastock.net.ico",
     "slug": "authentik",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 846,
-    "timeWeek": 608,
-    "timeMonth": 485,
-    "timeYear": 435,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 434,
+    "timeDay": 585,
+    "timeWeek": 573,
+    "timeMonth": 480,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-10-08": 0
+      "2024-10-08": 21
     }
   },
   {
