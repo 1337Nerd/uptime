@@ -1,7 +1,7 @@
 url: https://twitch.joshuastock.net
-status: up
-code: 200
-responseTime: 245
-lastUpdated: 2024-12-17T23:18:26.307Z
+status: down
+code: 502
+responseTime: 165
+lastUpdated: 2024-12-18T17:44:18.668Z
 startTime: 2024-03-10T20:12:06.549Z
 generator: Upptime <https://github.com/upptime/upptime>
