@@ -1,7 +1,7 @@
 url: https://filebrowser.joshuastock.net
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 265
-lastUpdated: 2024-12-21T23:16:31.867Z
+lastUpdated: 2024-12-22T16:29:56.285Z
 startTime: 2024-03-10T19:22:49.168Z
 generator: Upptime <https://github.com/upptime/upptime>
