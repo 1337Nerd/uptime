@@ -1,7 +1,7 @@
 url: https://torrent.joshuastock.net
-status: up
-code: 200
-responseTime: 365
-lastUpdated: 2025-02-22T21:34:35.489Z
+status: down
+code: 502
+responseTime: 90
+lastUpdated: 2025-02-22T23:11:08.870Z
 startTime: 2024-03-10T20:12:05.987Z
 generator: Upptime <https://github.com/upptime/upptime>
