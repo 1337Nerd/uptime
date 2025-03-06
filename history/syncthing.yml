@@ -1,7 +1,7 @@
 url: https://syncthing.joshuastock.net
-status: up
-code: 200
-responseTime: 457
-lastUpdated: 2025-03-05T23:19:37.743Z
+status: down
+code: 502
+responseTime: 292
+lastUpdated: 2025-03-06T07:39:12.671Z
 startTime: 2024-03-10T19:34:43.698Z
 generator: Upptime <https://github.com/upptime/upptime>
