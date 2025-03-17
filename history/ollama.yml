@@ -1,7 +1,7 @@
 url: https://ollama.joshuastock.net
-status: up
-code: 200
-responseTime: 520
-lastUpdated: 2025-03-16T23:18:19.790Z
+status: down
+code: 502
+responseTime: 196
+lastUpdated: 2025-03-17T21:37:57.607Z
 startTime: 2024-03-10T20:21:17.304Z
 generator: Upptime <https://github.com/upptime/upptime>
