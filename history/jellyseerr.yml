@@ -1,7 +1,7 @@
 url: https://jellyseerr.joshuastock.net
-status: up
-code: 200
-responseTime: 829
-lastUpdated: 2025-03-16T23:18:18.405Z
+status: down
+code: 502
+responseTime: 306
+lastUpdated: 2025-03-17T21:37:53.486Z
 startTime: 2024-03-10T20:21:15.460Z
 generator: Upptime <https://github.com/upptime/upptime>
