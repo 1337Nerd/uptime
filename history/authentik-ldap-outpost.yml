@@ -1,7 +1,7 @@
-url: ldaps://ldap.joshuastock.net:636
+url: ldaps://ldap.joshuastock.net
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2025-03-18T22:01:37.112Z
+lastUpdated: 2025-03-18T22:13:49.029Z
 startTime: 2025-03-18T22:01:37.094Z
 generator: Upptime <https://github.com/upptime/upptime>
