@@ -1,7 +1,7 @@
 url: dns.joshuastock.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-18T22:27:16.626Z
+status: up
+code: 200
+responseTime: 69
+lastUpdated: 2025-03-18T22:30:38.590Z
 startTime: 2025-03-18T22:13:51.832Z
 generator: Upptime <https://github.com/upptime/upptime>
