@@ -6,6 +6,7 @@ sites:
   - name: Authentik
     url: https://authentik.joshuastock.net
   - name: Authentik LDAP Outpost
+    check: 'tcp-ping'
     url: ldaps://ldap.joshuastock.net
     port: 636
   - name: Alist
