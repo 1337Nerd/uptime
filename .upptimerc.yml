@@ -6,7 +6,8 @@ sites:
   - name: Authentik
     url: https://authentik.joshuastock.net
   - name: Authentik LDAP Outpost
-    url: ldaps://ldap.joshuastock.net:636
+    url: ldaps://ldap.joshuastock.net
+    port: 636
   - name: Alist
     url: https://index.joshuastock.net
   - name: Webtop
@@ -17,12 +18,20 @@ sites:
     url: https://bazarr.joshuastock.net
   - name: Code Server
     url: https://code.joshuastock.net
+  - name: DNS Over HTTPS
+    url: https://doh.joshuastock.net/dns-query
+  - name: DNS Over TLS
+    check: 'tcp-ping'
+    url: dns.joshuastock.net
+    port: 853
   - name: Feishin
     url: https://music.joshuastock.net
   - name: Filebrowser
     url: https://filebrowser.joshuastock.net
   - name: Grafana
-    url: https://dashboard.joshuastock.net
+    check: 'tcp-ping'
+    url: dashboard.joshuastock.net
+    port: 443
   - name: Hoarder
     url: https://hoarder.joshuastock.net
   - name: Immich
