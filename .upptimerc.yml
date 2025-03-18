@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Authentik
     url: https://authentik.joshuastock.net
+  - name: Authentik LDAP Outpost
+    url: ldaps://ldap.joshuastock.net:636
   - name: Alist
     url: https://index.joshuastock.net
   - name: Webtop
