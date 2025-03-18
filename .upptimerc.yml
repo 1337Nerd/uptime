@@ -5,16 +5,28 @@ repo: uptime # The name of this repository
 sites:
   - name: Authentik
     url: https://authentik.joshuastock.net
-  - name: Dash
-    url: https://dash.joshuastock.net
+  - name: Alist
+    url: https://index.joshuastock.net
+  - name: Webtop
+    url: https://arch.joshuastock.net
+  - name: Autobrr
+    url: https://autobrr.joshuastock.net
+  - name: Bazarr
+    url: https://bazarr.joshuastock.net
+  - name: Code Server
+    url: https://code.joshuastock.net
+  - name: Feishin
+    url: https://music.joshuastock.net
   - name: Filebrowser
     url: https://filebrowser.joshuastock.net
   - name: Grafana
-    check: "tcp-ping"
-    url: dashboard.joshuastock.net
-    port: 443
-  - name: Homarr
-    url: https://homarr.joshuastock.net
+    url: https://dashboard.joshuastock.net
+  - name: Hoarder
+    url: https://hoarder.joshuastock.net
+  - name: Immich
+    url: https://immich.joshuastock.net
+  - name: Influx
+    url: https://influx.joshuastock.net
   - name: Invoke AI
     url: https://invoke.joshuastock.net
   - name: Jellyfin
@@ -23,6 +35,12 @@ sites:
     url: https://jellyseerr.joshuastock.net
   - name: jfa-go
     url: https://jfa-go.joshuastock.net
+  - name: Firefox
+    url: https://firefox.joshuastock.net
+  - name: Navidrome
+    url: https://navidrome.joshuastock.net
+  - name: n8n
+    url: https://n8n.joshuastock.net
   - name: Ollama
     url: https://ollama.joshuastock.net
   - name: Portainer
@@ -33,22 +51,30 @@ sites:
     url: https://prowlarr.joshuastock.net
   - name: Radarr
     url: https://radarr.joshuastock.net
+  - name: Readarr
+    url: https://readarr.joshuastock.net
+  - name: Romm
+    url: https://romm.joshuastock.net
+  - name: Sabnzbd
+    url: https://sabnzbd.joshuastock.net
   - name: Slskd
     url: https://slskd.joshuastock.net
   - name: Sonarr
     url: https://sonarr.joshuastock.net
   - name: Syncthing
     url: https://syncthing.joshuastock.net
+  - name: Technitium
+    url: https://technitium.joshuastock.net
   - name: Torrent
     url: https://torrent.joshuastock.net
-  - name: Transmission
-    url: https://transmission.joshuastock.net
   - name: Twitch
     url: https://twitch.joshuastock.net
-  - name: Webtop
-    url: https://arch.joshuastock.net
-  - name: Webtop VPN
-    url: https://vpn.joshuastock.net
+  - name: Umami
+    url: https://umami.joshuastock.net
+  - name: Whisper
+    url: https://whisper.joshuastock.net
+  - name: Vaultwarden
+    url: https://vault.joshuastock.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
