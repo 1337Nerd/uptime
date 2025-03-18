@@ -3,22 +3,24 @@ owner: 1337Nerd # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
+  - name: Audiobookshelf
+    url: https://audio.joshuastock.net
   - name: Authentik
     url: https://authentik.joshuastock.net
   - name: Authentik LDAP Outpost
     check: 'tcp-ping'
-    url: ldaps://ldap.joshuastock.net
+    url: ldap.joshuastock.net
     port: 636
   - name: Alist
     url: https://index.joshuastock.net
-  - name: Webtop
-    url: https://arch.joshuastock.net
   - name: Autobrr
     url: https://autobrr.joshuastock.net
   - name: Bazarr
     url: https://bazarr.joshuastock.net
   - name: Code Server
     url: https://code.joshuastock.net
+  - name: Comfy
+    url: https://comfy.joshuastock.net
   - name: DNS Over HTTPS
     url: https://doh.joshuastock.net/dns-query
   - name: DNS Over TLS
@@ -83,6 +85,8 @@ sites:
     url: https://twitch.joshuastock.net
   - name: Umami
     url: https://umami.joshuastock.net
+  - name: Webtop
+    url: https://arch.joshuastock.net
   - name: Whisper
     url: https://whisper.joshuastock.net
   - name: Vaultwarden
