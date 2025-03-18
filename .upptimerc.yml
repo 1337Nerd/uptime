@@ -56,7 +56,7 @@ sites:
   - name: Romm
     url: https://romm.joshuastock.net
   - name: Sabnzbd
-    url: https://sabnzbd.joshuastock.net
+    url: https://nzb.joshuastock.net
   - name: Slskd
     url: https://slskd.joshuastock.net
   - name: Sonarr
