@@ -190,8 +190,8 @@
     "slug": "grafana",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 5,
@@ -200,7 +200,7 @@
     "timeMonth": 7,
     "timeYear": 4,
     "dailyMinutesDown": {
-      "2025-03-18": 4
+      "2025-03-18": 5
     }
   },
   {
@@ -282,7 +282,7 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "97.36%",
-    "uptimeDay": "24.38%",
+    "uptimeDay": "24.42%",
     "uptimeWeek": "89.03%",
     "uptimeMonth": "96.22%",
     "uptimeYear": "97.32%",
@@ -444,7 +444,7 @@
     "slug": "jfa-go",
     "status": "up",
     "uptime": "96.00%",
-    "uptimeDay": "23.94%",
+    "uptimeDay": "23.98%",
     "uptimeWeek": "88.96%",
     "uptimeMonth": "95.98%",
     "uptimeYear": "95.92%",
@@ -787,19 +787,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nzb.joshuastock.net.ico",
     "slug": "sabnzbd",
     "status": "up",
-    "uptime": "9.90%",
-    "uptimeDay": "9.90%",
-    "uptimeWeek": "9.90%",
-    "uptimeMonth": "9.90%",
-    "uptimeYear": "9.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 250,
     "timeDay": 250,
     "timeWeek": 250,
     "timeMonth": 250,
     "timeYear": 250,
-    "dailyMinutesDown": {
-      "2025-03-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Slskd",
