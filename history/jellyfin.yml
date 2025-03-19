@@ -1,7 +1,7 @@
 url: https://jellyfin.joshuastock.net
-status: up
-code: 200
-responseTime: 419
-lastUpdated: 2025-03-18T23:18:30.115Z
+status: down
+code: 502
+responseTime: 123
+lastUpdated: 2025-03-19T14:58:18.660Z
 startTime: 2024-03-10T19:03:01.132Z
 generator: Upptime <https://github.com/upptime/upptime>
