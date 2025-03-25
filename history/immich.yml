@@ -1,7 +1,7 @@
 url: https://immich.joshuastock.net
-status: up
-code: 200
-responseTime: 317
-lastUpdated: 2025-03-25T21:34:48.299Z
+status: down
+code: 502
+responseTime: 145
+lastUpdated: 2025-03-25T21:47:57.564Z
 startTime: 2025-03-18T21:34:46.605Z
 generator: Upptime <https://github.com/upptime/upptime>
