@@ -1,7 +1,7 @@
 url: https://influx.joshuastock.net
-status: up
-code: 200
-responseTime: 258
-lastUpdated: 2025-03-25T22:53:26.990Z
+status: down
+code: 404
+responseTime: 124
+lastUpdated: 2025-03-26T14:37:00.928Z
 startTime: 2025-03-18T21:34:47.244Z
 generator: Upptime <https://github.com/upptime/upptime>
