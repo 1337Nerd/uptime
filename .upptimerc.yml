@@ -31,12 +31,12 @@ sites:
     url: https://music.joshuastock.net
   - name: Filebrowser
     url: https://filebrowser.joshuastock.net
+  - name: Firefox
+    url: https://firefox.joshuastock.net
   - name: Grafana
     check: 'tcp-ping'
     url: dashboard.joshuastock.net
     port: 443
-  - name: Hoarder
-    url: https://hoarder.joshuastock.net
   - name: Immich
     url: https://immich.joshuastock.net
   - name: Influx
@@ -49,8 +49,8 @@ sites:
     url: https://jellyseerr.joshuastock.net
   - name: jfa-go
     url: https://jfa-go.joshuastock.net
-  - name: Firefox
-    url: https://firefox.joshuastock.net
+  - name: Karakeep
+    url: https://karakeep.joshuastock.net
   - name: Navidrome
     url: https://navidrome.joshuastock.net
   - name: n8n
