@@ -15,6 +15,10 @@ sites:
     url: https://index.joshuastock.net
   - name: Autobrr
     url: https://autobrr.joshuastock.net
+  - name: Backrest
+    url: https://backrest.joshuastock.net
+  - name: Backrest VPS
+    url: https://backrest-vps.joshuastock.net
   - name: Bazarr
     url: https://bazarr.joshuastock.net
   - name: Code Server
@@ -75,8 +79,6 @@ sites:
     url: https://slskd.joshuastock.net
   - name: Sonarr
     url: https://sonarr.joshuastock.net
-  - name: Syncthing
-    url: https://syncthing.joshuastock.net
   - name: Technitium
     url: https://technitium.joshuastock.net
   - name: Torrent
