@@ -11,8 +11,6 @@ sites:
     check: 'tcp-ping'
     url: ldap.joshuastock.net
     port: 636
-  - name: Alist
-    url: https://index.joshuastock.net
   - name: Autobrr
     url: https://autobrr.joshuastock.net
   - name: Backrest
@@ -73,8 +71,6 @@ sites:
     url: https://readarr.joshuastock.net
   - name: Romm
     url: https://romm.joshuastock.net
-  - name: Sabnzbd
-    url: https://nzb.joshuastock.net
   - name: Slskd
     url: https://slskd.joshuastock.net
   - name: Sonarr
