@@ -1,7 +1,7 @@
 url: https://invoke.joshuastock.net
-status: up
-code: 200
-responseTime: 292
-lastUpdated: 2025-06-11T23:21:35.545Z
+status: down
+code: 500
+responseTime: 1107
+lastUpdated: 2025-06-12T18:25:31.649Z
 startTime: 2024-03-10T20:21:13.780Z
 generator: Upptime <https://github.com/upptime/upptime>
