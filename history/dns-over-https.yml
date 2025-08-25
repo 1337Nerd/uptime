@@ -1,7 +1,7 @@
 url: https://doh.joshuastock.net/dns-query
-status: up
-code: 200
-responseTime: 564
-lastUpdated: 2025-08-24T23:19:03.723Z
+status: down
+code: 502
+responseTime: 575
+lastUpdated: 2025-08-25T13:37:30.736Z
 startTime: 2025-03-18T22:13:51.367Z
 generator: Upptime <https://github.com/upptime/upptime>
