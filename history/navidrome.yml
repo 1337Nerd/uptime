@@ -1,7 +1,7 @@
 url: https://navidrome.joshuastock.net
-status: up
-code: 200
-responseTime: 429
-lastUpdated: 2025-10-22T23:19:06.778Z
+status: down
+code: 502
+responseTime: 186
+lastUpdated: 2025-10-23T11:45:11.315Z
 startTime: 2025-03-18T21:34:51.264Z
 generator: Upptime <https://github.com/upptime/upptime>
