@@ -1,7 +1,7 @@
 url: https://bazarr.joshuastock.net
-status: up
-code: 200
-responseTime: 986
-lastUpdated: 2025-11-17T23:19:55.271Z
+status: down
+code: 500
+responseTime: 113
+lastUpdated: 2025-11-18T11:47:42.977Z
 startTime: 2025-03-18T21:34:38.120Z
 generator: Upptime <https://github.com/upptime/upptime>
