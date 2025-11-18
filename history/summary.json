@@ -281,7 +281,7 @@
     "timeMonth": 196,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-11-18": 1007,
+      "2025-11-18": 1022,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -386,7 +386,7 @@
     "timeMonth": 0,
     "timeYear": 27,
     "dailyMinutesDown": {
-      "2025-11-18": 1007,
+      "2025-11-18": 1022,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -701,18 +701,19 @@
     "url": "https://invoke.joshuastock.net",
     "icon": "https://icons.duckduckgo.com/ip3/invoke.joshuastock.net.ico",
     "slug": "invoke-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 426,
+    "time": 425,
     "timeDay": 210,
     "timeWeek": 323,
     "timeMonth": 286,
     "timeYear": 368,
     "dailyMinutesDown": {
+      "2025-11-18": 1,
       "2025-06-12": 116
     }
   },
@@ -1294,7 +1295,7 @@
     "timeMonth": 350,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2025-11-18": 1008,
+      "2025-11-18": 1023,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1569,7 +1570,7 @@
     "timeMonth": 178,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-11-18": 1008,
+      "2025-11-18": 1023,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
