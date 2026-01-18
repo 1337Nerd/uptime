@@ -1,7 +1,7 @@
 url: https://music.joshuastock.net
-status: up
-code: 200
-responseTime: 3980
-lastUpdated: 2026-01-17T23:23:04.639Z
+status: down
+code: 502
+responseTime: 3732
+lastUpdated: 2026-01-18T14:10:25.694Z
 startTime: 2025-03-18T21:34:39.620Z
 generator: Upptime <https://github.com/upptime/upptime>
