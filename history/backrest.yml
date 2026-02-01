@@ -1,7 +1,7 @@
 url: https://backrest.joshuastock.net
-status: up
-code: 200
-responseTime: 210
-lastUpdated: 2026-01-31T23:25:52.533Z
+status: down
+code: 502
+responseTime: 269
+lastUpdated: 2026-02-01T22:49:35.893Z
 startTime: 2025-04-09T15:37:01.825Z
 generator: Upptime <https://github.com/upptime/upptime>
