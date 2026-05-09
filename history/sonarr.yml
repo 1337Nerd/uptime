@@ -1,7 +1,7 @@
 url: https://sonarr.joshuastock.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-08T06:21:22.387Z
+status: up
+code: 200
+responseTime: 429
+lastUpdated: 2026-05-09T22:56:25.205Z
 startTime: 2024-03-10T20:21:20.791Z
 generator: Upptime <https://github.com/upptime/upptime>
