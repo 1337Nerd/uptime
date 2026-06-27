@@ -1,7 +1,7 @@
 url: https://backrest-vps.joshuastock.net
-status: up
-code: 200
-responseTime: 905
-lastUpdated: 2026-06-27T00:10:30.625Z
+status: down
+code: 502
+responseTime: 28626
+lastUpdated: 2026-06-27T14:11:21.547Z
 startTime: 2025-04-09T15:37:02.647Z
 generator: Upptime <https://github.com/upptime/upptime>
