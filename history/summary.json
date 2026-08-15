@@ -294,16 +294,16 @@
     "url": "https://backrest-vps.joshuastock.net",
     "icon": "https://icons.duckduckgo.com/ip3/backrest-vps.joshuastock.net.ico",
     "slug": "backrest-vps",
-    "status": "down",
+    "status": "up",
     "uptime": "97.44%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "96.54%",
-    "time": 341,
-    "timeDay": 313,
-    "timeWeek": 319,
-    "timeMonth": 290,
+    "time": 342,
+    "timeDay": 322,
+    "timeWeek": 322,
+    "timeMonth": 291,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2025-11-18": 23,
@@ -327,7 +327,7 @@
       "2026-06-27": 150,
       "2026-07-04": 68,
       "2026-07-28": 194,
-      "2026-08-15": 6
+      "2026-08-15": 16
     }
   },
   {
@@ -471,7 +471,7 @@
     "timeMonth": 125,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2026-08-15": 1054,
+      "2026-08-15": 1069,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -846,7 +846,7 @@
     "timeMonth": 0,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2026-08-15": 1054,
+      "2026-08-15": 1070,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -1818,7 +1818,7 @@
       "2025-10-30": 45,
       "2025-11-18": 49,
       "2025-12-01": 23,
-      "2026-08-15": 1055,
+      "2026-08-15": 1070,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -2067,7 +2067,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/navidrome.joshuastock.net.ico",
     "slug": "navidrome",
     "status": "up",
-    "uptime": "94.34%",
+    "uptime": "94.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "98.73%",
@@ -2139,16 +2139,16 @@
     "url": "https://n8n.joshuastock.net",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.joshuastock.net.ico",
     "slug": "n8n",
-    "status": "down",
-    "uptime": "96.80%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.55%",
+    "status": "up",
+    "uptime": "96.79%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "95.48%",
-    "time": 298,
-    "timeDay": 258,
-    "timeWeek": 292,
-    "timeMonth": 270,
+    "time": 299,
+    "timeDay": 292,
+    "timeWeek": 299,
+    "timeMonth": 273,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2026-01-26": 27,
@@ -2174,7 +2174,7 @@
       "2026-06-27": 85,
       "2026-07-04": 67,
       "2026-07-28": 194,
-      "2026-08-15": 2
+      "2026-08-15": 16
     }
   },
   {
@@ -2522,7 +2522,7 @@
     "timeMonth": 284,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2026-08-15": 1055,
+      "2026-08-15": 1070,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -2987,7 +2987,7 @@
     "timeMonth": 137,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2026-08-15": 1055,
+      "2026-08-15": 1070,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -3512,16 +3512,16 @@
     "url": "https://umami.joshuastock.net",
     "icon": "https://icons.duckduckgo.com/ip3/umami.joshuastock.net.ico",
     "slug": "umami",
-    "status": "down",
+    "status": "up",
     "uptime": "96.14%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "94.56%",
     "time": 295,
-    "timeDay": 162,
-    "timeWeek": 245,
-    "timeMonth": 222,
+    "timeDay": 204,
+    "timeWeek": 249,
+    "timeMonth": 224,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-11-18": 23,
@@ -3551,7 +3551,7 @@
       "2026-06-27": 84,
       "2026-07-04": 67,
       "2026-07-28": 193,
-      "2026-08-15": 2
+      "2026-08-15": 16
     }
   },
   {
@@ -3629,16 +3629,16 @@
     "url": "https://vault.joshuastock.net",
     "icon": "https://icons.duckduckgo.com/ip3/vault.joshuastock.net.ico",
     "slug": "vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "96.92%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "95.66%",
-    "time": 238,
-    "timeDay": 236,
-    "timeWeek": 238,
-    "timeMonth": 207,
+    "time": 237,
+    "timeDay": 251,
+    "timeWeek": 242,
+    "timeMonth": 210,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2025-11-18": 24,
@@ -3665,7 +3665,7 @@
       "2026-06-27": 83,
       "2026-07-04": 67,
       "2026-07-28": 193,
-      "2026-08-15": 2
+      "2026-08-15": 15
     }
   }
 ]
