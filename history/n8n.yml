@@ -1,7 +1,7 @@
 url: https://n8n.joshuastock.net
-status: up
-code: 200
-responseTime: 248
-lastUpdated: 2026-08-14T23:31:21.764Z
+status: down
+code: 403
+responseTime: 268
+lastUpdated: 2026-08-15T17:32:40.018Z
 startTime: 2025-03-18T21:34:51.979Z
 generator: Upptime <https://github.com/upptime/upptime>
